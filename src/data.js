@@ -12,3 +12,5 @@ let posts = [
     content: 'Yapper puggorino lotsa pats, very good spot. Extremely cuuuuuute length boy pupperino tungg ruff super chub.'
   }
 ]
+
+ module.exports = { posts }
